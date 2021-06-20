@@ -1,0 +1,14 @@
+﻿  Linked List.cpp
+C:\Users\hp\source\repos\Linked List\Linked List\Linked List.cpp(121,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hp\source\repos\Linked List\Linked List\Linked List.cpp(118): message : во время компиляции функции-члена класс шаблон "T LinkedList<T>::get(int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\hp\source\repos\Linked List\Linked List\Linked List.cpp(168): message : выполняется компиляция ссылки на экземпляр шаблон функции "T LinkedList<T>::get(int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\hp\source\repos\Linked List\Linked List\Linked List.cpp(149): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "LinkedList<int>"
+  Linked List.vcxproj -> C:\Users\hp\source\repos\Linked List\Debug\Linked List.exe
